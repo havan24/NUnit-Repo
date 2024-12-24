@@ -1,0 +1,51 @@
+{
+  "uuid": "b7bd867a-58be-4631-a819-7464521d4427",
+  "historyId": "7f615995a01849e0c5b07e61fcb50796",
+  "testCaseId": "62bcaf23a6c8adf508765e736521f16d",
+  "fullName": "TestProjectDecBatchEGIndia:TestProjectDecBatchEGIndia.NunitTests.Assertions.AssertionsEG()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOYB6JKYNO34Y"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectDecBatchEGIndia.NunitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AssertionsEG"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "AssertionsEG",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "9c343ead-5970-49e6-9ff3-dfd3d1219a04-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1733991532626,
+  "stop": 1733991532638
+}

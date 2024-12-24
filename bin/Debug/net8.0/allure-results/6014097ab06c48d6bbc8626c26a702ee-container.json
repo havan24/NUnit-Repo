@@ -1,0 +1,12 @@
+{
+  "uuid": "58826cf1-3f1b-43ad-a5a4-2a824889e2c3",
+  "name": "TestProjectDecBatchEGIndia.SeleniumC_.BrowserCommands",
+  "children": [
+    "7ceccc75-ca34-441f-b418-9ec0e6bf6abf"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591746960,
+  "stop": 1734591763528
+}

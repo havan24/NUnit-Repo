@@ -1,0 +1,12 @@
+{
+  "uuid": "25c29088-52b1-4d3b-a02b-c91f39956903",
+  "name": "TestProjectDecBatchEGIndia.NunitTests.Assertions.AssertionsEG",
+  "children": [
+    "43ea5456-8490-44e0-b37a-a884efaf5a6d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734333647600,
+  "stop": 1734333647632
+}

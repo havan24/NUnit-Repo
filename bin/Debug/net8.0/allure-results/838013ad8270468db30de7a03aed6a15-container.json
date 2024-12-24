@@ -1,0 +1,12 @@
+{
+  "uuid": "793205d0-4c8a-4b93-bbdf-09b0269e5fed",
+  "name": "TestProjectDecBatchEGIndia.SeleniumC_.AllureAndParellel.testcase1",
+  "children": [
+    "827f91a7-ee3e-4dae-972a-520528847224"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592427843,
+  "stop": 1734592451076
+}

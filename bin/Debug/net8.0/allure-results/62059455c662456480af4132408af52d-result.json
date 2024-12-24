@@ -1,0 +1,45 @@
+{
+  "uuid": "efab0d23-e38e-409d-ac65-1282ccde5254",
+  "historyId": "282be9049ed636dd1d7a984aa944b82e",
+  "testCaseId": "49e53248f6cfc6ffd409dbd19b896bda",
+  "fullName": "TestProjectDecBatchEGIndia:TestProjectDecBatchEGIndia.SeleniumC_.ActionsClass.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOYB6JKYNO34Y"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectDecBatchEGIndia.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "ActionsClass"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592459128,
+  "stop": 1734592477893
+}

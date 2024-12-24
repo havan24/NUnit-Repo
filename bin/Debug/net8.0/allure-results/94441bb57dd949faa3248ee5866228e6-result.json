@@ -1,0 +1,55 @@
+{
+  "uuid": "63009dac-8d69-48c6-bd65-43bbffa38c0d",
+  "historyId": "c0cae991a4993e70c7ccd24b3d673349",
+  "testCaseId": "1c30d0571770f4bad136419df0af110d",
+  "fullName": "TestProjectDecBatchEGIndia:TestProjectDecBatchEGIndia.SeleniumC_.AutomateSauce.testSauce()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOYB6JKYNO34Y"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectDecBatchEGIndia.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testSauce"
+    },
+    {
+      "name": "testClass",
+      "value": "AutomateSauce"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "testSauce",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "dd585949-4fef-43fb-b0b7-e0bf83974e8b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734592499641,
+  "stop": 1734592510962
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "54fb4a1a-bb15-4aa8-b008-65013b2ea448",
+  "name": "TestProjectDecBatchEGIndia.SeleniumC_.AutomateOrange",
+  "children": [
+    "bd735949-0cd3-41e4-94ca-125a434bfb5e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592477899,
+  "stop": 1734592499633
+}

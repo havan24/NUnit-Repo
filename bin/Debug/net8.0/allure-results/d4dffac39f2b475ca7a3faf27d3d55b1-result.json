@@ -1,0 +1,56 @@
+{
+  "uuid": "49125bd7-7636-4749-8999-050a7ecc0062",
+  "historyId": "4150b7ef1ed62cf1e155321133a37a7c",
+  "testCaseId": "5cf787f24f77bcec28cb1d9349fedd99",
+  "fullName": "TestProjectDecBatchEGIndia:TestProjectDecBatchEGIndia.SeleniumC_.AllureAndParellel.testcase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "AUTOYB6JKYNO34Y"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectDecBatchEGIndia.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureAndParellel"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection\r\nTearDown : OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Window.Maximize()\r\n   at TestProjectDecBatchEGIndia.SeleniumC_.AllureAndParellel.testcase2() in C:\\Users\\hakul\\source\\repos\\TestProjectDecBatchEGIndia\\TestProjectDecBatchEGIndia\\SeleniumC#\\AllureAndParellel.cs:line 69\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)\r\n--TearDown\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at TestProjectDecBatchEGIndia.SeleniumC_.AllureAndParellel.Closebrowser() in C:\\Users\\hakul\\source\\repos\\TestProjectDecBatchEGIndia\\TestProjectDecBatchEGIndia\\SeleniumC#\\AllureAndParellel.cs:line 87\r\n   at InvokeStub_AllureAndParellel.Closebrowser(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734593126973,
+  "stop": 1734593153852
+}
